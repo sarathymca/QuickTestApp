@@ -1,0 +1,6 @@
+D:\Sarathy\Sample Program\QuickTestApp\QuickTestApp\bin\Debug\QuickTestApp.exe.config
+D:\Sarathy\Sample Program\QuickTestApp\QuickTestApp\obj\Debug\QuickTestApp.csprojResolveAssemblyReference.cache
+D:\Sarathy\Sample Program\QuickTestApp\QuickTestApp\bin\Debug\QuickTestApp.exe
+D:\Sarathy\Sample Program\QuickTestApp\QuickTestApp\bin\Debug\QuickTestApp.pdb
+D:\Sarathy\Sample Program\QuickTestApp\QuickTestApp\obj\Debug\QuickTestApp.exe
+D:\Sarathy\Sample Program\QuickTestApp\QuickTestApp\obj\Debug\QuickTestApp.pdb
